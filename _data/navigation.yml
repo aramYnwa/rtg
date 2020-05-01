@@ -1,0 +1,14 @@
+- title: "Home"
+  href: "/"
+
+- title: "Tutorials"
+  href: "/tutorials/"
+
+- title: "Reviews"
+  href: "/reviews/"
+
+- title: "Search"
+  href: "/search/"
+
+- title: "About"
+  href: "/about/"
